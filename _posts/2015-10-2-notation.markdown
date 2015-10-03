@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Journal 1: On notation - communicating with improvising musicians"
+title:  "Notation - communicating with improvising musicians"
 date:   2015-08-20 22:35:59
 categories: jekyll update
 ---

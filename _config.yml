@@ -1,10 +1,11 @@
 # Site settings
-title: CNMAT / UCB Digital Humanities
+title: (e)met
+subtitle: CNMAT | Digital Humanities
 email1: shrubin2@berkeley.edu
 email2: juanmahvelez@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Both researchers are currently based in Berkeley, California. The funding for this research was generously provided by the University of California, Berkeley Digital Humanities Collaborative Research Grant, with support from the Andrew W. Mellon Foundation. We are also thankful for technological support from the Center for New Music and Audio Technologies (CNMAT)
-baseurl: "/Project" # the subpath of your site, e.g. /blog/
+  The funding for this research was generously provided by the University of California, Berkeley Digital Humanities Collaborative Research Grant, with support from the Andrew W. Mellon Foundation. We are also thankful for technological support from the Center for New Music and Audio Technologies (CNMAT).
+baseurl: "/emet" # the subpath of your site, e.g. /blog/
 url: "http://scottrubinmusic.com/" # the base hostname & protocol for your site
 github_username:  shrubin2
 github_username2:  juanmahvelez

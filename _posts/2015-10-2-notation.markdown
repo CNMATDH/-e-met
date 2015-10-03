@@ -4,7 +4,7 @@ title:  "Notation - communicating with improvising musicians"
 date:   2015-08-20 22:35:59
 categories: jekyll update
 ---
-Communicating with musicians interrogates the nature of controls and freedoms. What exactly in the music do we wish to control, how will we control it, and how specific is the control?
+Communicating with musicians interrogates the nature of controls and freedoms. Speaking from a composer's perspective, we need to ask ourselves what exactly in the music do we wish to control, how will we control it, and how specific is the control?
 
 In common practice Western classical music notation (which I will refer to from now on as tradition notation), we organize the information we wish to communicate on a musical staff. This system of organization is widespread and taught in music conservatories. But as with all communication systems, it privileges certain parameters of sound (e.g. synchronicity, discrete pitch) and disenfranchises others (e.g. timbre, randomness). This particular system came out of a musical practice needed to reference these parameters in order to communicate them on a large scale.
 

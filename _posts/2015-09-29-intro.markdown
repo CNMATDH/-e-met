@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction"
 date:   2015-09-29 22:35:59
 categories: jekyll update
+author: Scott Rubin
 ---
 The purpose of this blog is to share the progress of a research project pertaining to machine-learning and music improvisation developed by data scientist Juan Hernandez and composer Scott Rubin. Both researchers are currently based in Berkeley, California. The funding for this research was generously provided by the University of California, Berkeley Digital Humanities Collaborative Research Grant, with support from the Andrew W. Mellon Foundation. We are also thankful for technological support from the Center for New Music and Audio Technologies (CNMAT).
 

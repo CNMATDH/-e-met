@@ -3,6 +3,7 @@ layout: post
 title:  "Notation - communicating with improvising musicians"
 date:   2015-08-20 22:35:59
 categories: jekyll update
+author: Scott Rubin
 ---
 Communicating with musicians interrogates the nature of controls and freedoms. What exactly in the music do we wish to control, how will we control it, and how specific is the control?
 
